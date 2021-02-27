@@ -1,5 +1,17 @@
 # Rocketpay
 
+Projeto realizado na 4ª Next Level Week
+
+- Aula 1: Base do elixir com pipe operator e patter matching
+- Aula 2: Uso do ecto para acesso ao banco de dados
+- Aula 3: Uso de multi para transações
+- Aula 4: Transações mais complexas
+- Aula 5: Autenticação e testes
+- Extra : Gravação de arquivo assíncrona 
+
+
+---
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
