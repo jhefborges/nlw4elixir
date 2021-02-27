@@ -39,3 +39,8 @@ erl_crash.dump
 /installer/tmp
 /installer/doc
 /installer/deps
+
+.formatter.exs
+.credo.exs
+
+.proof/
